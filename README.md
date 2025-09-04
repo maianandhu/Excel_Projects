@@ -1,2 +1,2 @@
 # Excel_Projects
-These Projects  domstrate my excel skill
+These Projects  demonstrate my excel skill
